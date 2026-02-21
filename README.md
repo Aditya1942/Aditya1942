@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aditya1942&column=3&margin-w=15&margin-h=15" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aditya1942&column=3&margin-w=15&margin-h=15" alt="GitHub trophies" />
   </a>
 </div>
 
@@ -126,7 +126,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Aditya1942&theme=dracula&bg_color=ffffff00&color=878787&line=2F80ED&point=ffffff00&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://ghchart.rshah.org/4042aditya1942?theme=merko" alt="GitHub Contribution Graph" />
 </div>
 
 ---
