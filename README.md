@@ -1,27 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aditya+Parmar👋;Full-Stack+Developer;JavaScript+99%+%7C+TypeScript+99%;React+%7C+React+Native+Expert;Building+beautiful+web+%26+mobile+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aditya+Parmar👋;Full-Stack+Developer;React+%7C+React+Native+Expert;Building+beautiful+web+%26+mobile+apps" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <a href="https://twitter.com/aditya_parmar_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/aditya_parmar_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://linkedin.com/in/adityaparmar1942">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/aaditya_parmar_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
   <br />
 
   <img src="https://komarev.com/ghpvc/?username=Aditya1942&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aditya1942&column=3&margin-w=15&margin-h=15" alt="GitHub trophies" />
-  </a>
 </div>
 
 ## 🛠️ Tech Stack
@@ -46,6 +37,9 @@
   <a href="https://github.com/Aditya1942?tab=repositories&q=expo">
     <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   </a>
+  <a href="https://github.com/Aditya1942?tab=repositories&q=android">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  </a>
 </p>
 
 ### State Management & Styling
@@ -67,6 +61,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
 ### DevOps & Cloud
@@ -76,6 +72,21 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
+
+### Development Tools & AI
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-C15F3C?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=code&logoColor=white" alt="OpenCode" />
+</p>
+
+#### AI Automation & Productivity
+- **OpenCode** — Multi-model orchestration with agent delegation
+- **Sub-agent systems** — Parallel execution of specialized workflows
+- **MCP integration** — Extensible tooling for agent capabilities
+- **n8n** — workflows and automation
+- **LLM workflows** — Automated code review & documentation
 
 ## 📊 GitHub Analytics
 
@@ -91,33 +102,20 @@
 ## 💻 Skill Proficiency
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,redux,tailwind,nodejs,express,nestjs,mongodb,postgres,docker,aws" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,java,python,swift,androidstudio,react,redux,nextjs,angular,nodejs,mongodb,postgres,sqlite,mysql,docker,aws,vite,webpack,graphql,vscode,linux,arch,ubuntu,bash" alt="Skills" />
 </div>
-
-| Skill | Proficiency |
-|-------|-------------|
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="20" alt="JavaScript"> | <progress value="99" max="100" style="width: 150px"></progress> **99%** |
-| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="20" alt="TypeScript"> | <progress value="99" max="100" style="width: 150px"></progress> **99%** |
-| <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" width="20" alt="React"> | <progress value="99" max="100" style="width: 150px"></progress> **99%** |
-| <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" width="20" alt="React Native"> | <progress value="95" max="100" style="width: 150px"></progress> **95%** |
-| <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" width="20" alt="Next.js"> | <progress value="92" max="100" style="width: 150px"></progress> **92%** |
-| <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" width="20" alt="Node.js"> | <progress value="88" max="100" style="width: 150px"></progress> **88%** |
-| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" width="20" alt="Java"> | <progress value="80" max="100" style="width: 150px"></progress> **80%** |
-| <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" width="20" alt="Kotlin"> | <progress value="80" max="100" style="width: 150px"></progress> **80%** |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="20" alt="Python"> | <progress value="70" max="100" style="width: 150px"></progress> **70%** |
-| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" width="20" alt="AWS"> | <progress value="80" max="100" style="width: 150px"></progress> **80%** |
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Aditya1942/your-project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1942&repo=your-project-1&bg_color=ffffff&text_color=000000&icon_color=2F80ED&border_color=000000&title_color=2F80ED" />
+  <a href="https://github.com/Aditya1942/workflow">
+    <img src="https://img.shields.io/badge/Workflow-000000?style=for-the-badge&logo=github&logoColor=white" alt="Workflow" />
   </a>
-  <a href="https://github.com/Aditya1942/your-project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1942&repo=your-project-2&bg_color=ffffff&text_color=000000&icon_color=2F80ED&border_color=000000&title_color=2F80ED" />
+  <a href="https://github.com/Aditya1942/football-player-detection">
+    <img src="https://img.shields.io/badge/Football_Player_Detection-000000?style=for-the-badge&logo=github&logoColor=white" alt="Football Player Detection" />
   </a>
-  <a href="https://github.com/Aditya1942/your-project-3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1942&repo=your-project-3&bg_color=ffffff&text_color=000000&icon_color=2F80ED&border_color=000000&title_color=2F80ED" />
+  <a href="https://github.com/Aditya1942/node-drive">
+    <img src="https://img.shields.io/badge/Node_Drive-000000?style=for-the-badge&logo=github&logoColor=white" alt="Node Drive" />
   </a>
 </div>
 
@@ -126,7 +124,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/4042aditya1942?theme=merko" alt="GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/aditya1942?theme=merko" alt="GitHub Contribution Graph" />
 </div>
 
 ---
