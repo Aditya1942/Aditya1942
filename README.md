@@ -1,41 +1,142 @@
-<h1 align="center">Hi 👋, I'm Aditya parmar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aditya+Parmar👋;Full-Stack+Developer;JavaScript+99%+%7C+TypeScript+99%;React+%7C+React+Native+Expert;Building+beautiful+web+%26+mobile+apps" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1942&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1942" /> </p>
+<div align="center">
+  <a href="https://twitter.com/aditya_parmar_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/adityaparmar1942">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/aaditya_parmar_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya1942"Cancel changes alt="aditya1942" /></a> </p>
+  <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aditya_parmar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_parmar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityaparmar1942" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityaparmar1942" height="30" width="40" /></a>
-<a href="https://instagram.com/aaditya_parmar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaditya_parmar_" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Aditya1942&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aditya1942&column=3&margin-w=15&margin-h=15" alt="GitHub trophies" />
+  </a>
+</div>
+
+## 🛠️ Tech Stack
+
+### Frontend & Mobile
+<p>
+  <a href="https://github.com/Aditya1942?tab=repositories&language=javascript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/Aditya1942?tab=repositories&language=typescript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://github.com/Aditya1942?tab=repositories&q=react">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://github.com/Aditya1942?tab=repositories&q=react+native">
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  </a>
+  <a href="https://github.com/Aditya1942?tab=repositories&q=next.js">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://github.com/Aditya1942?tab=repositories&q=expo">
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </a>
- <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
- <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+### State Management & Styling
+<p>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+</p>
 
-<h3 align="left">Github Analytics:</h3>
-<p align="center">
-<a href="https://github.com/Aditya1942">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya1942&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya1942&layout=compact&langs_count=12"/>
-</a>
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
-<p align="center">
-	<img
-		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com?user=Aditya1942"
-		alt="Aditya1942"
-	/>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Aditya1942&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
-</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aditya1942&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&text_color=000000&icon_color=2F80ED&border_color=000000&title_color=2F80ED&ring_color=2F80ED" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya1942&layout=compact&langs_count=10&bg_color=ffffff&text_color=000000&icon_color=2F80ED&border_color=000000&title_color=2F80ED" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya1942&theme=white&hide_border=true&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000" alt="Contribution streak" />
+</div>
+
+## 💻 Skill Proficiency
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,redux,tailwind,nodejs,express,nestjs,mongodb,postgres,docker,aws" alt="Skills" />
+</div>
+
+| Skill | Proficiency |
+|-------|-------------|
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="20" alt="JavaScript"> | <progress value="99" max="100" style="width: 150px"></progress> **99%** |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="20" alt="TypeScript"> | <progress value="99" max="100" style="width: 150px"></progress> **99%** |
+| <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" width="20" alt="React"> | <progress value="99" max="100" style="width: 150px"></progress> **99%** |
+| <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" width="20" alt="React Native"> | <progress value="95" max="100" style="width: 150px"></progress> **95%** |
+| <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" width="20" alt="Next.js"> | <progress value="92" max="100" style="width: 150px"></progress> **92%** |
+| <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" width="20" alt="Node.js"> | <progress value="88" max="100" style="width: 150px"></progress> **88%** |
+| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" width="20" alt="Java"> | <progress value="80" max="100" style="width: 150px"></progress> **80%** |
+| <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" width="20" alt="Kotlin"> | <progress value="80" max="100" style="width: 150px"></progress> **80%** |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" width="20" alt="Python"> | <progress value="70" max="100" style="width: 150px"></progress> **70%** |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" width="20" alt="AWS"> | <progress value="80" max="100" style="width: 150px"></progress> **80%** |
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Aditya1942/your-project-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1942&repo=your-project-1&bg_color=ffffff&text_color=000000&icon_color=2F80ED&border_color=000000&title_color=2F80ED" />
+  </a>
+  <a href="https://github.com/Aditya1942/your-project-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1942&repo=your-project-2&bg_color=ffffff&text_color=000000&icon_color=2F80ED&border_color=000000&title_color=2F80ED" />
+  </a>
+  <a href="https://github.com/Aditya1942/your-project-3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1942&repo=your-project-3&bg_color=ffffff&text_color=000000&icon_color=2F80ED&border_color=000000&title_color=2F80ED" />
+  </a>
+</div>
+
+> 💡 **Want to see more?** Check out my [GitHub repositories](https://github.com/Aditya1942?tab=repositories)
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Aditya1942&theme=dracula&bg_color=ffffff00&color=878787&line=2F80ED&point=ffffff00&area=true&hide_border=true" alt="Activity graph" />
+</div>
+
+---
+
+<div align="center">
+  <p>💡 Built with passion & ❤️ by Aditya Parmar</p>
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  </p>
+  <p>
+    <i>Powered by GitHub Readme Stats, Typing SVG, and Streak Stats</i>
+  </p>
+</div>
